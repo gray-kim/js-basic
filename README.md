@@ -1,2 +1,2 @@
-# js-clock-app
- chrome clock app
+# js-basic
+ vanilla js app
